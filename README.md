@@ -1,4 +1,4 @@
 # passgens
 password generators
 
-I am not responmsible for any use of this product illegally. 
+I am not responsible for any illegal use of this product. 
