@@ -1,6 +1,4 @@
-"""
-@Author Organi
-"""
+
 
 import random
 import argparse
